@@ -1,0 +1,17 @@
+{
+  "name": "job-scrapping",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "css.escape": "^1.5.1",
+    "cssesc": "^3.0.0",
+    "html2json": "^1.0.2",
+    "puppeteer": "^8.0.0"
+  }
+}
